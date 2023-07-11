@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- **trkarakz/trkarakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I am experienced Software Engineer. Lazy blogger. Novice historian. Etimology enthusiast.
+I am experienced Software Engineer. Active blogger. Novice historian. Etimology enthusiast.
 
 - 🔭 I’m currently working on Toao-social
 - 🌱 I’m currently learning Micro-services, Spring Cloud, Docker and Kubernetes
